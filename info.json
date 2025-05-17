@@ -1,0 +1,8 @@
+{
+  "name": "Tether USD",
+  "symbol": "USDT",
+  "decimals": 18,
+  "address": "TXXhXp21bTkaBeAXATc7arfV4v13VB3D9AX",
+  "chainId": "Shasta",
+  "logoURI": "https://yourdomain.com/assets/logo.png"
+}
